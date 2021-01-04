@@ -31,3 +31,5 @@ Which ofcourse also includes "Cyber criminology"
 You can contact me through the following methods
 - send me a message to my [Discord](https://discord.com/channels/@me/255679874507866113)
 - reach out to my [LinkedIn](https://nl.linkedin.com/in/dvh)
+
+![](https://komarev.com/ghpvc/?username=DustSwiffer&color=green)
