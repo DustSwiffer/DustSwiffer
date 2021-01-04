@@ -1,16 +1,23 @@
-### Hi there 👋
+### Heya 👋
+Im Swiffer, A junior .NET developer thats also spending his free-time on several other languages.
 
-<!--
-**DustSwiffer/DustSwiffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 🔎 PROJECTS YOU MIGHT FIND ON MY PAGE 🔍
+- Home automation components
+- Little tools for fun
+- SpigotMC plugins
+- or just some simple web pages, because why not?!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 PROGRAMMING LANGUAGES I UNDERSTAND 💻
+- C#
+- C++
+- HTML/CSS 
+- Javascript
+- PHP
+- Python
+- Java
+- SQL
+
+#### 💡 LEARNINGS 💡
+I'm still learning new things. Currently im still learning new things within the programming languages and im intrested to learn more about ethical hacking and cyber crime.
+Which ofcourse also includes "Cyber criminology"
