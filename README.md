@@ -1,7 +1,7 @@
 ### Heya 👋
 I am Swiffer, A junior .NET developer thats also spending his free-time on several other languages.
 
-FEEl FREE to look around on my GitHub page
+Feel free to look around on my GitHub page
 
 
 #### 🔎 PROJECTS YOU MIGHT FIND ON MY PAGE 🔍
