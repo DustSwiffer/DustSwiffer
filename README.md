@@ -32,4 +32,7 @@ You can contact me through the following methods
 - send me a message to my [Discord](https://discord.com/channels/@me/255679874507866113)
 - reach out to my [LinkedIn](https://nl.linkedin.com/in/dvh)
 
-![](https://komarev.com/ghpvc/?username=DustSwiffer&color=green)
+### Languages on my GitHub page
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DustSwiffer)
+
+[](https://komarev.com/ghpvc/?username=DustSwiffer&color=green)
