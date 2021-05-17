@@ -23,7 +23,7 @@ Feel free to look around on my GitHub page
 
 
 #### 💡 LEARNINGS 💡
-I'm still learning new things. Currently im still learning new things within the programming languages and im intrested to learn more about ethical hacking and cyber crime.
+I'm still learning new things. Currently im still learning new things within the programming languages and im interested to learn more about ethical hacking and cyber crime.
 Which ofcourse also includes "Cyber criminology"
 
 
