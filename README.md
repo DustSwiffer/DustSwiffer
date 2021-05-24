@@ -1,4 +1,4 @@
-### Heya 👋
+### Heya 👋 
 I am Swiffer, A .NET developer thats also spending his free-time on several other languages.
 
 Feel free to look around on my GitHub page
@@ -29,10 +29,12 @@ Which ofcourse also includes "Cyber criminology"
 
 #### 📱 WAYS TO REACH OUT TO ME 📱
 You can contact me through the following methods
-- send me a message to my [Discord](https://discord.com/channels/@me/255679874507866113)
 - reach out to my [LinkedIn](https://nl.linkedin.com/in/dvh)
-
+- 
+![](https://gpvc.arturio.dev/DustSwiffer)
 ### Languages on my GitHub page
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DustSwiffer)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DustSwiffer&theme=dark)
 
-[](https://komarev.com/ghpvc/?username=DustSwiffer&color=green)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DustSwiffer&theme=dark&show_icons=true)
+
+
