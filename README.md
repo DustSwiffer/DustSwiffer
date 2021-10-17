@@ -1,5 +1,5 @@
 ### Heya 👋 
-I am Swiffer, A .NET developer thats also spending his free-time on several other languages.
+I am Dustin Bleeker, A .NET developer thats also spending his free-time on several other languages.
 
 Feel free to look around on my GitHub page
 
