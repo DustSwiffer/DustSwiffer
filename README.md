@@ -29,7 +29,7 @@ Which ofcourse also includes "Cyber criminology"
 
 #### 📱 WAYS TO REACH OUT TO ME 📱
 You can contact me through the following methods
-- reach out to my [LinkedIn](https://nl.linkedin.com/in/dvh)
+- reach out to my [LinkedIn](https://nl.linkedin.com/in/dustinbleeker)
 
 ![](https://gpvc.arturio.dev/DustSwiffer)
 ### Languages on my GitHub page
