@@ -11,21 +11,6 @@ Feel free to look around on my GitHub page
 - or just some simple web pages, because why not?!
 
 
-#### 💻 PROGRAMMING LANGUAGES I UNDERSTAND 💻
-- C#
-- C++
-- HTML/CSS 
-- Javascript
-- PHP
-- Python
-- Java
-- SQL
-
-
-#### 💡 LEARNINGS 💡
-I'm still learning new things. Currently im still learning new things within the programming languages and im interested to learn more about ethical hacking and cyber crime.
-Which ofcourse also includes "Cyber criminology"
-
 
 #### 📱 WAYS TO REACH OUT TO ME 📱
 You can contact me through the following methods
