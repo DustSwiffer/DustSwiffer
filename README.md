@@ -17,9 +17,5 @@ You can contact me through the following methods
 - reach out to my [LinkedIn](https://nl.linkedin.com/in/dustinbleeker)
 
 ![](https://gpvc.arturio.dev/DustSwiffer)
-### Languages on my GitHub page
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DustSwiffer&theme=dark)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DustSwiffer&theme=dark&show_icons=true)
 
 
