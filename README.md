@@ -15,4 +15,4 @@ Feel free to look around on my GitHub page!
 ### 📱 My socials 📱
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dustinbleeker/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/dustswiffer) [![Instagram - Car](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/452.swiffer/) [![Instagram - Personal](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dustswiffer/)
 
-[![GitHub followers](https://img.shields.io/github/followers/codergirl-al.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/codergirl-al?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/dustswiffer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dustswiffer?tab=followers)
